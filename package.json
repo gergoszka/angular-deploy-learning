@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href https://gergoszka.github.io/angular-deploy-learning/",
+    "build:prod": "ng build --configuration=production --base-href=/angular-deploy-learning/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
